@@ -1,2 +1,2 @@
 # UTeM
-UTeM Project
+UTeM Lab, Assignment, and Project
